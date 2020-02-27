@@ -40,3 +40,7 @@
 
 - functions: invoke the function with optional arguments => check return
 - endpoints: make a request with optional arguments => check the response
+
+
+## tips 
+- adding describe helps the dev, it creates the output that supposed to be read. 
